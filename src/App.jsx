@@ -1,6 +1,6 @@
 import { useState } from "react"
 import axios from "axios";
-const URL = 'http://localhost:3000/upload';
+const URL = 'https://upload-site-backend.onrender.com/upload';
 
 
 function App() {
